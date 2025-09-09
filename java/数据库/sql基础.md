@@ -28,7 +28,7 @@ mysql是关系型数据库、
         底层是表，行，列结构
 
 redis是键值对数据库，基于内存，
-        底层有多种数据结构：String、hash、LIst、set、zset ，事务功能一般
+        底层有多种数据结构：String、hash、LIst、set、zs       et ，事务功能一般
         适用于：处理复杂查询、事务处理、大量数据集的场景
         redis持久化机制主要靠KOF和RDB快照实现，读写效率更高
 
